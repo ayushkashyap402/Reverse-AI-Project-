@@ -25,5 +25,5 @@ https://reverse-ai-project.vercel.app
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-assistant-ui.git
+git clone https://github.com/ayushkashyap402/Reverse-AI-Project-.git
 cd ai-assistant-ui
